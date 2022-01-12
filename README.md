@@ -5,7 +5,7 @@ setup
 
 1. in terminal run npm i
 
-2. cd into client. and run npm i 
+2. cd into client and run npm i
 
 3. add a folder named config to the root and and a file named keys.js
 
