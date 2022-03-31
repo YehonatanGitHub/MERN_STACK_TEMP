@@ -1,0 +1,20 @@
+.search {
+  width: 70%;
+}
+.autoComplete {
+  width: 70%;
+}
+
+.autocompleteItems {
+  cursor: pointer;
+  width: 70%;
+  /* background-color: #fff;
+  border: 1px solid #d4d4d4;
+  list-style: none;
+  padding: 0;
+  margin: 0; */
+}
+
+.autocompleteItems:hover {
+  background-color: rgb(79, 163, 105);
+}
